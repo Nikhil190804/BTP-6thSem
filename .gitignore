@@ -1,0 +1,5 @@
+Audio Embeddings/*.csv
+
+DATASETS/*
+!DATASETS/*.md
+GIRISH_MODELS/
